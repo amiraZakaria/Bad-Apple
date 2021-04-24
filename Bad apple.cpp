@@ -9,7 +9,6 @@ const char marks[2] = {'X', 'O'};
 char grid[N][N];
 int counter=0;
 
-
 //This function prints the grid of Tic-Tac-Toe Game as the game progresses
 void print_grid() {
 
